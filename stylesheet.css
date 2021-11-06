@@ -1,13 +1,4 @@
 body {
-    background-image: url("Background.gif");
-  }
-  
-  h1 {
-    background-color: black;
-    color: white;
-  }
-  
-  div {
-    background-color:black;
-    color: white;
+  background-image:url('pixel-city-chill.gif'); 
+  background-repeat:repeat; 
   }
