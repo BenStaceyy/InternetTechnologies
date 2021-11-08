@@ -1,4 +1,32 @@
 body {
-  background-image:url('pixel-city-chill.gif'); 
-  background-repeat:repeat; 
-  }
+  
+  background-image: url("Images/background.gif");
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color:#041414
+}
+
+h3 {
+  color: white;
+  font-size: 100px;
+  text-align: center;
+  font-family: Arial;
+}
+p {
+  font-size: large;
+  text-align: left;
+  line-height: 18px;
+
+}
+ul {
+  border-width: 4px;
+  border-style: solid;
+  border-color: crimson;
+}
+a {
+  color: white;
+  font-size: 40px;
+}
+
